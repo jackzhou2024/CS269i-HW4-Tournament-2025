@@ -27,9 +27,9 @@ Your score is the sum of payments from both bidders who satisfy their ROI constr
 
 ### Auction Format Requirements:
 
-Your auction strategy must:
-- Never charge a bidder more than their bid in any round.
-- Allocate the item deterministically to at most one bidder per round.
+**Your auction strategy must:**
+- **Never charge a bidder more than their bid in any round.**
+- **Allocate the item deterministically to at most one bidder per round.**
 
 
 ## Tasks:
