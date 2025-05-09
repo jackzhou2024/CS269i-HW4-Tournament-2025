@@ -8,7 +8,7 @@ Your task is to develop an auction strategy following the provided template in t
 
 We will utilize the bidding strategies submitted by you and your classmates for HW3. Your auction strategy will be tested against randomly sampled pairs of your classmates' auto-bidders. For each pair:
 
-- Each auto-bidder is assigned a random ROI factor sampled from the range \\([1, 2]\\).
+- Each auto-bidder is assigned a random ROI factor sampled from the range $$[1, 2]$$.
 - Your auction strategy is executed for 10,000 rounds.
 
 Your goal is to maximize the **total revenue** generated while trying to help bidders meet their ROI constraints.
