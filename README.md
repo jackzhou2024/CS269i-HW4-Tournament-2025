@@ -22,7 +22,7 @@ Your score is the sum of payments from both bidders who satisfy their ROI constr
 - If bidder 1 and bidder 2 both violate the ROI constraints, your score is $$0$$.
 
 **Note:**
-- You do not know the exact ROI factors of the bidders; you only know they are randomly sampled from \\([1, 2]\\).
+- You do not know the exact ROI factors of the bidders; you only know they are randomly sampled from $$[1, 2]$$.
 - You may infer bidder strategies and ROI factors from history auction data, which is part of input to your strategy.
 
 ### Auction Format Requirements:
